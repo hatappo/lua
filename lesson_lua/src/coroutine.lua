@@ -22,6 +22,3 @@ while i < 100 do
 	i = i + 1
 	print(i.." : "..fib())
 end
-
-
-
